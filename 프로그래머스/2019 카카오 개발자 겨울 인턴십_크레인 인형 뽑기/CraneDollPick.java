@@ -13,6 +13,7 @@ public class CraneDollPick {
 
 
     //해답
+    //import java.util.ArrayList; 을 코드위에 작성해줘야함
     public int solution(int[][] board, int[] moves) {
         int result=0;
         List<Integer> basket = new ArrayList<>();
